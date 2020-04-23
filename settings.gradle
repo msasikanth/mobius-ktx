@@ -1,2 +1,4 @@
-rootProject.name = 'mobius-ktx'
+rootProject.name = 'Mobius KTX'
+
 include ':app'
+include ':mobius-ktx'
